@@ -14,3 +14,16 @@ p:hover {
 input {
   width: 200px !important;
 }
+
+
+input {
+  width: 200px !important;
+}
+
+input::placeholder {
+  opacity: 0.5 !important       ;
+}
+
+#url {
+  width: 300px !important;
+}
