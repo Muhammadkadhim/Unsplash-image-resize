@@ -1,3 +1,7 @@
 # Unsplash-image-resize
-resize unsplash.com images\ 
-using html, bootstrap, and javascript\
+
+
+<ul>
+<li>resize unsplash.com images</li>
+<li>using html, bootstrap, and javascript</li>
+</ul>
