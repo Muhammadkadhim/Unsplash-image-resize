@@ -1,4 +1,4 @@
-# Unsplash-image-resize
+# Unsplash-image-resizer
 resize unsplash.com images
 
 <ul>
