@@ -1,0 +1,16 @@
+P {
+  margin-block: 10px;
+  padding: 10px;
+  border: 1px solid black;
+  width: fit-content;
+  cursor: pointer;
+  border-radius: 10px;
+}
+p:hover {
+  background-color: #888;
+  color: white;
+}
+
+input {
+  width: 200px !important;
+}
